@@ -4,3 +4,4 @@ registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
 quay.io/prometheus-operator/prometheus-config-reloader:v0.67.1
 mysql:8.0.18
 python:alpine3.19
+mysql:8.4.0
